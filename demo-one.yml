@@ -1,3 +1,6 @@
 server:
   servlet:
     path: /demo-one
+
+test:
+  a: mrding
