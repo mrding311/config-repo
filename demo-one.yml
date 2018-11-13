@@ -2,6 +2,8 @@ server:
   servlet:
     path: /demo-one
 
-test: ssssss
+test:
   a: mrding
+
+name: dingshuai
 
