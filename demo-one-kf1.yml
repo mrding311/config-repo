@@ -1,3 +1,7 @@
 server:
   servlet:
     path: /demo-one
+
+forquery:
+  a: dingshuai-kf1
+  b: mrding-kf1

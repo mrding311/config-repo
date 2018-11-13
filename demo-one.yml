@@ -2,8 +2,7 @@ server:
   servlet:
     path: /demo-one
 
-test:
-  a: mrding
-
-name: dingshuai
+forquery:
+  a: dingshuai
+  b: mrding
 
